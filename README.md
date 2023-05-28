@@ -1,2 +1,2 @@
 # cleedom
-Projeto pessoal que visa falar sobre minimalismo, produção e liberdade.
+Projeto pessoal que visa falar sobre produção e liberdade.
